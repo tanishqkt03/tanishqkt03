@@ -1,20 +1,20 @@
 # Hi there, I'm Tanishq KT 👋
 
-Welcome to my GitHub! I'm a passionate developer with an interest in web & app development, data science, and problem solving. I enjoy building projects that solve real-world problems and diving deep into learning new technologies.
+Welcome to my GitHub! I'm a passionate developer interested in web and app development, data science, and problem-solving. I enjoy building projects that address real-world challenges and diving deep into learning new technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning:
+- 🌱 **Currently Learning:**
   - Advanced web development techniques (JavaScript, CSS animations)
-  - 3D modeling and interactions for the web.
-  - creating experiences that matter to users.
+  - 3D modeling and interactions for the web
+  - Creating meaningful user experiences
 
-- 💬 Ask me about:
-  - Creating interactive and immersive web experiences.
-  - Setting up custom, dynamic content for websites.
-  - create solutions to real world problems
+- 💬 **Ask Me About:**
+  - Creating interactive and immersive web experiences
+  - Setting up custom, dynamic content for websites
+  - Developing solutions to real-world problems
 
 ---
 
@@ -32,18 +32,19 @@ Welcome to my GitHub! I'm a passionate developer with an interest in web & app d
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
 
+---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkt03&show_icons=true&hide=stars&count_private=true&theme=radical)
+![Tanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkt03&show_icons=true&hide=stars&count_private=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 - LinkedIn: [tanishqkt](https://www.linkedin.com/in/tanishqkt/)
-- Email: tanishqtoliya@gmail.com
-- Leetcode : [tanishqkt](https://www.leetcode.com/tanishqkt/)
+- Email: [tanishqtoliya@gmail.com](mailto:tanishqtoliya@gmail.com)
+- LeetCode: [tanishqkt](https://www.leetcode.com/tanishqkt/)
 
 ---
 
