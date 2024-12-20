@@ -34,12 +34,6 @@ Welcome to my GitHub! I'm a passionate developer interested in web and app devel
 
 ---
 
-## 📈 GitHub Stats
-
-![Tanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqkt03&show_icons=true&hide=stars&count_private=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: [tanishqkt](https://www.linkedin.com/in/tanishqkt/)
