@@ -1,6 +1,6 @@
 # Hi there, I'm Tanishq KT 👋
 
-Welcome to my GitHub! I'm a passionate developer interested in web and app development, data science, and problem-solving. I enjoy building projects that address real-world challenges and diving deep into learning new technologies.
+Welcome to my GitHub! I'm a passionate developer interested in web and app development, data science, AI/ML and problem-solving. I enjoy building projects that address real-world challenges and diving deep into learning new technologies.
 
 ---
 
@@ -8,13 +8,14 @@ Welcome to my GitHub! I'm a passionate developer interested in web and app devel
 
 - 🌱 **Currently Learning:**
   - Advanced web development techniques (JavaScript, CSS animations)
-  - 3D modeling and interactions for the web
-  - Creating meaningful user experiences
+  - AI and ML
+  - DevOps and CI/CD pipelines
 
 - 💬 **Ask Me About:**
   - Creating interactive and immersive web experiences
   - Setting up custom, dynamic content for websites
   - Developing solutions to real-world problems
+  - Deploying or Maintaining software solutions
 
 ---
 
